@@ -1,2 +1,2 @@
-# Rule_Script
+# Rules And Scripts
 自用分流规则
