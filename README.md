@@ -1,2 +1,2 @@
 # Rules And Scripts
-自用分流规则
+Self-use diversion rules
